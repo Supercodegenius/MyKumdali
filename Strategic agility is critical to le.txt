@@ -1,0 +1,27 @@
+Strategic agility is critical to leadership today
+
+
+- Suppose you wake up tomorrow morning and suddenly your world has changed. Maybe a global event has transformed your industry, or there's a new competitor focused directly at your market. There's a new kind of customer. Or if you work in government, there's a huge shift in the needs of a group of citizens. People on your team or throughout your organization look to you for guidance. So what should you do next? You probably won't just be answering that question once. You'll be asked to answer it again and again and again, as the pace and scale of change continue to grow, and as you have to deal with relentless uncertainty. That's why to be strategically agile, I'm going to help you to develop three critical capacities. The first capacity is a strategically agile mindset. If you and other decision-makers think of your organization as being able to respond quickly and to continually adapt, you'll be far more prepared to deal with the pace of relentless change. I'm going to help you to develop the mindset for strategic agility and to encourage that mindset in others. The second capacity is your skillset for strategic agility. Certain skills are absolutely critical for dealing with the breathtaking scale of exponential change. And as new technologies and world events affect more and more people in your organization, I'm going to help you to develop the most important skillset for leading through uncertainty. The third capacity is the strategic agility toolset. Here in the era of AI, there are many technologies that can help to fuel your efforts to be strategically agile, but it's not just technology. There are also techniques in your toolkit, such as moonshot thinking and rapid prototyping that will help you and your organization to blend strategy with agility. There's one very simple reason why you need to develop the strategic agility mindset, skillset, and toolset, and that's that the pace and scale of change are likely to never slow down. In the past, your industry or your organization might have been somewhat insulated against change. Yet in a world of exponential change, tomorrow, you could easily experience a dramatic shift that requires your organization to go in a completely new direction. You might have done this once already during the global pandemic, shifting to distributed work in a blindingly short period of time. But as soon as that pandemic subsided, many organizations simply bungee-corded back to their old practices. Now, rather than just trying to reorg your way out of a strategic challenge, imagine that everyone in your organization was in sync. What if everyone understood the organization's strategic goals and knew what they personally could do to contribute to those goals? And what if the organization followed adaptive techniques so it could be continuously, perpetually agile? Some people call this alignment, when everyone in the organization is in line, but let's call it synchrony. Just as beautiful music can occur when every musician in a jazz band or a symphony orchestra is in sync, people in your organization can have synchrony as well. To overcome the relentless pace and scale of change and the impact of constant uncertainty, you have the opportunity to help your organization adopt the mindset, skillset, and toolset for strategic agility, and to keep everyone in the organization continually in sync.
+
+
+
+Just needed to check with you -- Can I apply for this role "Head of Applications – UW, Pricing, QA & Testing"
+
+Braincal tecteam is here to demkistify the AI Agent building usinh AI SDK
+
+Agentic AI is at the forefront of the next wave of technological advancements hence learn with Braincal how to transform the way business processes are executed using Agents.
+
+
+ As agentic AI becomes more capable of performing tasks traditionally requiring human intelligence and oversight, it is crucial for data scientists and engineers to understand how these systems work and best practices to build them. In this course, Kumaran Ponnambalam discusses the concepts and building blocks for agentic AI. He explores how enterprise use cases can be built with a few examples, and reviews responsible AI considerations for agentic AI.
+Learning objectives
+
+You’ll also add guardrails, sessions, and tracing to make your agents safe, reliable, and easy to debug. By the end, you’ll have a working multi-agent travel assistant and the practical skills to build your own intelligent systems with the OpenAI Agents SDK.
+
+
+Agentic AI is at the forefront of the next wave of technological advancements in the generative AI world, transforming the way business processes are executed in the future. As agentic AI becomes more capable of performing tasks traditionally requiring human intelligence and oversight, it is crucial for data scientists and engineers to understand how these systems work and best practices to build them. In this course, Kumaran Ponnambalam discusses the concepts and building blocks for agentic AI. He explores how enterprise use cases can be built with a few examples, and reviews responsible AI considerations for agentic AI.
+Learning objectives
+
+https://www.bing.com/videos/riverview/relatedvideo?q=Cloudecomphting&&mid=71968F5ECB89AD5F36FA71968F5ECB89AD5F36FA&FORM=VRDGAR
+
+https://www.bing.com/videos/riverview/relatedvideo?q=Microsoft+Azure+Cloud&&mid=AE9066648BE3EB6897BFAE9066648BE3EB6897BF&FORM=VCGVRP
+

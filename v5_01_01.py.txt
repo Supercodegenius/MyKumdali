@@ -1,0 +1,25 @@
+import streamlit as st
+
+st.set_page_config(
+    page_title="Ask Your CSV",
+    page_icon="📊",
+    layout="wide"
+)
+
+st.title("📊 Ask Your CSV")
+
+AI transformation is no longer about adding intelligence on top of work. It’s about embedding AI into the flow of human ambition.
+
+Watch this 2 min video to get a glimpse of the very idea of 'Frontier Transformation'. 
+
+When intelligence is grounded in real data, contextual understanding, and built-in trust, AI stops being a tool and becomes a multiplier of human potential.
+
+The future of AI isn’t automation alone. It’s ambition, augmented responsibly.
+
+
+#Bengaluru #Anthropic #ArtificialIntelligence #AIIndia #GlobalCapabilityCenters #EmbassyGolfLinks #Karnataka #TechEcosystem #Innovation #StartupIndia #FutureOfWork #RealEstateGrowth #CommercialRealEstate #NorthBengaluru #GlobalTech #IndiaGrowthStory #Leadership #BusinessNews #GCC #AIRevolution
+
+
+
+
+Your Port Authorisation Code (PAC) is : BRA978474 for 07815518339 
